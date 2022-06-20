@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://julyky.github.io/</id>
+    <title>智添教育</title>
+    <updated>2022-06-20T02:10:02.337Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://julyky.github.io/"/>
+    <link rel="self" href="https://julyky.github.io/atom.xml"/>
+    <subtitle>专注高考小语种教育</subtitle>
+    <logo>https://julyky.github.io/images/avatar.png</logo>
+    <icon>https://julyky.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 智添教育</rights>
+    <entry>
+        <title type="html"><![CDATA[智添教育]]></title>
+        <id>https://julyky.github.io/post/hello-gridea/</id>
+        <link href="https://julyky.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>欢迎来到智添教育官网！<br>
+<img src="https://julyky.github.io//post-images/1654074515469.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
